@@ -1,0 +1,1 @@
+Provider=SQLOLEDB.1;Password=Neginak20;Persist Security Info=True;User ID=sa;Initial Catalog=SMA;Data Source=.;Use Procedure for Prepare=1;Auto Translate=True;Packet Size=4096;Use Encryption for Data=False;Tag with column collation when possible=False

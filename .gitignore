@@ -1,0 +1,7 @@
+*.exe
+/temp
+*.~dfm
+*.~pas
+*.~ddp
+*.zip
+*.rar
